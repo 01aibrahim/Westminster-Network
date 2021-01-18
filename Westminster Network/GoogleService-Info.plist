@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>511015646299-k6l09p9qla01lsobpeff5uq4osttqmnt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.511015646299-k6l09p9qla01lsobpeff5uq4osttqmnt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCcu1eR5x9J3BiL4qkieYVsXaq8r-RDbXA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>511015646299</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aibrahim.Westminster-Network</string>
+	<key>PROJECT_ID</key>
+	<string>westminster-network-b2eef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>westminster-network-b2eef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:511015646299:ios:c730fe3a91c05457b57b7e</string>
+	<key>DATABASE_URL</key>
+	<string>https://westminster-network-b2eef.firebaseio.com</string>
+</dict>
+</plist>
